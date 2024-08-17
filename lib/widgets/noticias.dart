@@ -9,7 +9,7 @@ class NewsWidget extends StatelessWidget {
       {
         "title": "Matricula",
         "description": "Inicio de matrícula este 24 de septiembre",
-        "imageUrl": "assets/imagen1.jpg",
+        "imageUrl": "assets/imagen1.png",
       },
       {
         "title": "Semana de la Ciencia",
@@ -29,7 +29,7 @@ class NewsWidget extends StatelessWidget {
       {
         "title": "Charlas de Emprendimiento",
         "description": "Aprende a lanzar tu propio negocio con expertos.",
-        "imageUrl": "assets/imagen5.jpg",
+        "imageUrl": "assets/imagen5.png",
       },
     ];
 
